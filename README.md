@@ -11,3 +11,4 @@ Favor de acceder utilizando estos links:
 9. [El Salvador Municipios](https://rawcdn.githack.com/AlejandroBeltranA/mapas/11ec8949828157a2fa617e7db15c0dc4f601733c/slv_mun_leaf_v2.html)
 10. [Guatemala Municipios](https://rawcdn.githack.com/AlejandroBeltranA/mapas/ecd804ae63dcd5d7bd5ba67754937052bba3e26b/gtm_mun_leaf_v2.html)
 11. [Peru Municipios](https://rawcdn.githack.com/AlejandroBeltranA/mapas/d368b6e6f216a992bb64125ceace09dfb0df9508/per_mun_leaf_v2.html)
+12. [Peru Departamentos](https://rawcdn.githack.com/AlejandroBeltranA/mapas/7f6db04d9ded31f1cd819c9c748d2c90b5295949/per_dep_leaf_v2.html)
